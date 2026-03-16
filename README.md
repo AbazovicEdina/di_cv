@@ -10,9 +10,9 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
 | #   | Tutorial (link to `.ipynb`)                             | Open in Colab                                                                                                                                                                |
 | --- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [Python for Computer Vision](./01_PythonTutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/01_PythonTutorial.ipynb) |
-| 2   | [Introduction to OpenCV](./02_Images.ipynb)             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/02_Images.ipynb)         |
-| 3   | [Histograms](./03_Histograms.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/03_Histograms.ipynb)     |
+| 1   | [Python for Computer Vision](./01_PythonTutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbazovicEdina/di_cv/blob/main/01_PythonTutorial.ipynb) |
+| 2   | [Introduction to OpenCV](./02_Images.ipynb)             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbazovicEdina/di_cv/blob/main/02_Images.ipynb)         |
+| 3   | [Histograms](./03_Histograms.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbazovicEdina/di_cv/blob/main/03_Histograms.ipynb)     |
 
 More tutorials and homework tasks will be added as the course progresses.
 

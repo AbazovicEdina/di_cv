@@ -2,8 +2,6 @@
 
 This is the repository for the Digital Imaging / Visual Computing course (05_DVC4IL) at the FH Hagenberg.
 
-[E-Learning course](https://elearning.fh-ooe.at/course/view.php?id=34875)
-
 Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
 ## Tutorials:
@@ -14,6 +12,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | 2   | [Introduction to OpenCV](./02_Images.ipynb)             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbazovicEdina/di_cv/blob/main/02_Images.ipynb)         |
 | 3   | [Histograms](./03_Histograms.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbazovicEdina/di_cv/blob/main/03_Histograms.ipynb)     |
 | 4   | [Filters](./04_Filters.ipynb)                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbazovicEdina/di_cv/blob/main/04_Filters.ipynb)        |
+| 5   | [Edges](./05_Edges.ipynb)                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbazovicEdina/di_cv/blob/main/05_Edges.ipynb)          |
 
 More tutorials and homework tasks will be added as the course progresses.
 
@@ -22,6 +21,7 @@ More tutorials and homework tasks will be added as the course progresses.
 | #   | Homework (link to `.ipynb`)                                        | Open in Colab                                                                                                                                                                          |
 | --- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | [Color Spaces and Histograms](./HW01_ColorSpaces_Hists.ipynb)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbazovicEdina/di_cv/blob/main/HW01_ColorSpaces_Hists.ipynb)     |
+| 2   | [Hybrid Images](./HW02_Hybrid.ipynb)                              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbazovicEdina/di_cv/blob/main/HW02_Hybrid.ipynb)                |
 
 ## Python Setup:
 
